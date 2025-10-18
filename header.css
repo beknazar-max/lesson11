@@ -25,7 +25,8 @@ header .btns {
 header .header-btn {
     display: flex;
     gap: 57px;
-
+    padding-top: 30px;
+    
     a {
       text-decoration: none;
       color: black;
